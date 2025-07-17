@@ -3,3 +3,6 @@ A prática contínua, é fundamental para qualquer área da vida, e na programa�
 
 ## Alterando e atualizando arquivos
 Ao realizarmos alterações em nosso repositório remoto, é necessário realizarmos a atualização local também.
+
+## Alteração via repositótio local
+Alterações no README.md, para enviar para o repositório remoto.
